@@ -20,9 +20,10 @@ https://github.com/Ileriayo/markdown-badges
 - A Terminal User Interface library called Malef written in Ada
 - Bindings for Malef in C and Python
 - A videogame for the GBA written in Ada and Forth
+- An agent for Telegram written in Python
 
-#### 🌱 I’m currently learning
-- To create applications with OpenGL and wxWidgets
+<!-- #### 🌱 I’m currently learning
+- To create applications with OpenGL and wxWidgets -->
 
 [![joseaverde's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseaverde&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseaverde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
