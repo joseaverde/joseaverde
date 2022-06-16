@@ -9,6 +9,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 <!-- ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) -->
+<!-- ![CommonLisp] -->
+<!-- ![OCaml] -->
 
 <!-- Sources for images:
 https://forth-standard.org/images/forth.png
