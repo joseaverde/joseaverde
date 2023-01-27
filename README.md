@@ -5,12 +5,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Forth](https://img.shields.io/badge/forth-%23341708?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAACVBMVEVCQkK3HBzvU1AreBoWAAAAWElEQVR42u3UgQaAYBDD8bX3f+ggWBl0RdV/AMfvfD43eZjrAQAAAO1i99mXAQAALxFHyoxCoRN/BAAARCdqS+/EXqqx4PQ5PwM4Pk2T7S8B4ovvamUAgBWhvxkwaWMnewAAAABJRU5ErkJggg==)
+![OCaml](https://img.shields.io/badge/-OCaml-orange?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-<!-- ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) -->
-<!-- ![CommonLisp] -->
-<!-- ![OCaml] -->
 
 <!-- Sources for images:
 https://forth-standard.org/images/forth.png
