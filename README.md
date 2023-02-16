@@ -18,8 +18,8 @@ https://github.com/Ileriayo/markdown-badges
 
 #### 🔭 I’m currently working on
 - A Terminal User Interface library called Malef written in Ada
-- Bindings for Malef in C and Python
-- A videogame for the GBA written in Ada and Forth
+- A GUI toolkit written in Ada with SDL, OpenGL and Cairo
+- A videogame for the GBA written in Ada.
 - An agent for Telegram written in Python
 
 <!-- #### 🌱 I’m currently learning
